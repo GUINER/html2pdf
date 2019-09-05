@@ -1,0 +1,2 @@
+# github.com/SebastiaanKlippert/go-wkhtmltopdf v1.5.0
+github.com/SebastiaanKlippert/go-wkhtmltopdf
